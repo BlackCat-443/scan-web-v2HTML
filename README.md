@@ -74,7 +74,7 @@ Alert yang manis untuk pengalaman pengguna yang lebih baik.
 
 ### 💖 Dibuat dengan Cinta dan Kopi ☕
 
-[![Made with Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/yourusername)
-[![Powered by Coffee](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://github.com/yourusername)
+[![Made with Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/BlackCat-443)
+[![Powered by Coffee](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://github.com/BlackCat-443)
 
 </div>
